@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://silantievmax.github.io/parallax-gallery",
   "scripts": {
-    "deploy": "gh-pages -d ."
+    "deploy": "gh-pages -d ./dist"
   },
   "repository": {
     "type": "git",
